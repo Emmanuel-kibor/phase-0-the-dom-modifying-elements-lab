@@ -6,6 +6,6 @@ const newHeader = document.createElement('h1');
 
 newHeader.id = 'victory'
 
-newHeader.innerHTML = "Roy Ngei is the champion"
+newHeader.innerHTML = "Emmanuel Kibor is the champion"
 
 document.body.append(newHeader);
